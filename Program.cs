@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Mascaras
+namespace InventoryControl
 {
     static class Program
     {
@@ -16,7 +16,7 @@ namespace Mascaras
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new frm_principal());
+            Application.Run(new frmPrincipal());
         }
     }
 }

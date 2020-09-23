@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Mascaras.Properties
+namespace InventoryControl.Properties
 {
 
 

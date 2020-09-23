@@ -1,2 +1,0 @@
-# LekywMask
-Inventory control
